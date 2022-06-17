@@ -27,19 +27,3 @@ I also have good knowledge and experience in web/Mobile Development(Flutter/Angu
 | Other: |![Git](https://img.shields.io/badge/-Git-C0C0C0?style=flat&logo=git&logoColor=white)&nbsp;![Linux](https://img.shields.io/badge/Linux-CD7F32?style=flat&logo=linux&logoColor=white)&nbsp;
 | Tools: |![PyCharm](https://img.shields.io/badge/pycharm-FFD700?style=flat&logo=pycharm&logoColor=white)&nbsp;![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-C0C0C0?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;![Eclipse](https://img.shields.io/badge/Eclipse-C0C0C0?style=flat&logo=Eclipse&logoColor=white)
 <br>
-⚙️ &nbsp;**GitHub Analytics**
-
-<p align="center">
-<a href="https://github.com/skanderzoghlami">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=skanderzoghlami&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=prs,issues"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=skanderzoghlami&layout=compact&langs_count=7&theme=algolia&hide=jupyter%20notebook"/>
-</a>
-</p>
-<p align="center">
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=skanderzoghlami&layout=compact&theme=rogue"/>
-  </p>
-  <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skanderzoghlami&theme=algolia"/>
-  </p>
-
-
