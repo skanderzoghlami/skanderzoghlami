@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Linkedin](https://img.shields.io/badge/-skander-zoghlami-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/skander-zoghlami/) [![Gmail](https://img.shields.io/badge/-skander-zoghlami-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:skanderzoghlam@gmail.com) [![Github](https://img.shields.io/github/followers/skanderzoghlami?label=Follow&style=social)](https://github.com/skanderzoghlami) ![Count](https://visitor-badge.laobi.icu/badge?page_id=skander-zoghlami.skander-zoghlami)
 
 
 
