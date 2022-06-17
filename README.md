@@ -1,6 +1,4 @@
 ### Hi there 👋
-[![Github](https://img.shields.io/github/followers/skanderzoghlami?label=Follow&style=social)](https://github.com/skanderzoghlami) ![Count](https://visitor-badge.laobi.icu/badge?page_id=skander-zoghlami.skander-zoghlami)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=54F715&lines=Computer+Science+Engineer;Deep+Learning+Enthusiast;Computer+Vision+Specialist)](https://git.io/typing-svg)
 
 I'm a Computer networks and telecommunications engineer specialised in signals processing; I have deep understanding of deep learning and how to apply it on images,videos,text,sound and 3D Point clouds.
