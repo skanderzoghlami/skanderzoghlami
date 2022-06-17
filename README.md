@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Linkedin](Linkedin)] (https://www.linkedin.com/in/skander-zoghlami/) [![Gmail](Gmail)](mailto:skanderzoghlam@gmail.com) [![Github](https://img.shields.io/github/followers/skanderzoghlami?label=Follow&style=social)](https://github.com/skanderzoghlami) ![Count](https://visitor-badge.laobi.icu/badge?page_id=skander-zoghlami.skander-zoghlami)
+[![Github](https://img.shields.io/github/followers/skanderzoghlami?label=Follow&style=social)](https://github.com/skanderzoghlami) ![Count](https://visitor-badge.laobi.icu/badge?page_id=skander-zoghlami.skander-zoghlami)
 
 
 
