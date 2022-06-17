@@ -3,7 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=54F715&lines=Computer+Science+Engineer;Deep+Learning+Enthusiast;Computer+Vision+Specialist)](https://git.io/typing-svg)
 
-
+I'm a Computer networks and telecommunications engineer specialised in signals processing; I have deep understanding of deep learning and how to apply it on images,videos,text,sound and 3D Point clouds.
+I also have good knowledge and experience in web/Mobile Development(Flutter/Angular) as well as back-end deveopment (Laravel/NodeJs).
 
 - 🔭 I’m currently working on Point Cloud Compression Artifact Removal
 - 🌱 I’m currently learning Open3D and Graph Neural Networks
@@ -26,8 +27,7 @@
 | Other: |![Git](https://img.shields.io/badge/-Git-C0C0C0?style=flat&logo=git&logoColor=white)&nbsp;![Linux](https://img.shields.io/badge/Linux-CD7F32?style=flat&logo=linux&logoColor=white)&nbsp;
 | Tools: |![PyCharm](https://img.shields.io/badge/pycharm-FFD700?style=flat&logo=pycharm&logoColor=white)&nbsp;![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-C0C0C0?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;![Eclipse](https://img.shields.io/badge/Eclipse-C0C0C0?style=flat&logo=Eclipse&logoColor=white)
 <br>
----------------------------------------------------------------------------------------------------------------
-### ⚙️ &nbsp;**GitHub Analytics**
+⚙️ &nbsp;**GitHub Analytics**
 
 <p align="center">
 <a href="https://github.com/skanderzoghlami">
