@@ -10,7 +10,7 @@ I also have good knowledge and experience in web/Mobile Development(Flutter/Angu
 - 🤔 I’m looking for help with Spectral Graphs
 - 💬 Ask me about Anything
 - 📫 How to reach me: [Linkedin Account](https://www.linkedin.com/in/skander-zoghlami/)
-- ⚡ Fun fact: Saudi Arabia has given citizenship to the social humanoid robot "Sophia". She became the first-ever robot to get citizenship of any country in the world. She, or it, is also the first non-human to be given any United Nations title (the Innovation Champion).
+- ⚡ Kidlin’s Law: If you can write the problem down clearly then the matter is half solved.
 <img alt="Silicon Valley" src="https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" align="right" width="200"/>
 
 ### 🛠 &nbsp;**Languages And Tools**
