@@ -11,7 +11,7 @@ I also have good knowledge and experience in web/Mobile Development(Flutter/Angu
 - 💬 Ask me about Anything
 - 📫 How to reach me: [Linkedin Account](https://www.linkedin.com/in/skander-zoghlami/)
 - ⚡ Fun fact: Saudi Arabia has given citizenship to the social humanoid robot "Sophia". She became the first-ever robot to get citizenship of any country in the world. She, or it, is also the first non-human to be given any United Nations title (the Innovation Champion).
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="200"/>
+<img alt="Silicon Valley" src="https://c.tenor.com/8PDB3JNNq98AAAAC/silicon-valley.gif" align="right" width="200"/>
 
 ### 🛠 &nbsp;**Languages And Tools**
 
