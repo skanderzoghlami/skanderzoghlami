@@ -7,7 +7,6 @@ I also have good knowledge and experience in web/Mobile Development(Flutter/Angu
 - 🔭 I’m currently working on Point Cloud Compression Artifact Removal
 - 🌱 I’m currently learning Open3D and Graph Neural Networks
 - 👯 I’m looking to collaborate on Deep learning projects
-- 🤔 I’m looking for help with Spectral Graph Convolutions
 - 💬 Ask me about Anything
 - 📫 How to reach me: [Linkedin Account](https://www.linkedin.com/in/skander-zoghlami/)
 - ⚡ Kidlin’s Law: If you can write the problem down clearly then the matter is half solved.
