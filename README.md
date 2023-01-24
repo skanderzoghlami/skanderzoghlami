@@ -4,8 +4,8 @@
 I'm a Computer networks and telecommunications engineer specialised in signals processing; I have deep understanding of deep learning and how to apply it on images,videos,text,sound and 3D Point clouds.
 I also have good knowledge and experience in web/Mobile Development(Flutter/Angular) as well as back-end deveopment (Laravel/NodeJs).
 
-- 🔭 I’m currently working on Point Cloud Compression Artifact Removal
-- 🌱 I’m currently learning Open3D and Graph Neural Networks
+- 🔭 I’m currently Looking for freelance jobs on upwork
+- 🌱 I’m currently learning NLP
 - 👯 I’m looking to collaborate on Deep learning projects
 - 💬 Ask me about Anything
 - 📫 How to reach me: [Linkedin Account](https://www.linkedin.com/in/skander-zoghlami/)
