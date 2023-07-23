@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=54F715&lines=Computer+Science+Engineer;Deep+Learning+Enthusiast;Computer+Vision+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=54F715&lines=Computer+Science+Engineer;Deep+Learning+Engineer;Game+Development+Enthusiast)](https://git.io/typing-svg)
 
 👋 Hello there! I'm a Computer Networks and Telecommunications Engineer with a diverse skill set and experience in web and mobile development, including Flutter and Angular for front-end, as well as Laravel and Node.js for back-end development.
 
