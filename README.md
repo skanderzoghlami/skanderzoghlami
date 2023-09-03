@@ -5,6 +5,8 @@ I'm a Computer Networks and Telecommunications Engineer with a diverse skill set
 
 Currently, I'm on an exciting journey of honing my skills in 3D Technologies. My dedication to this new adventure reflects my love for Gaming and creating immersive experiences that captivate players and bring ideas to life.
 
+I am currently pursuing a Master's Degree in 3D Technologies, where I am honing my programming prowess in both C++ and C#. I'm leveraging these skills to craft applications with the Qt framework and delve into the captivating world of game development through Unity.
+
 As an enthusiastic learner, I am constantly seeking to expand my knowledge and expertise in 3D Technologies and game development, leveraging my engineering background to craft innovative solutions and optimize performance in the virtual world.
 
 I am fueled by curiosity and creativity, always seeking opportunities to collaborate with like-minded individuals and contribute to exciting projects that push the boundaries of what's possible in the gaming industry.
