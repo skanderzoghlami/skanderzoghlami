@@ -1,6 +1,3 @@
-
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Engineer;Game+Developer;Artificial+Interlligence+Engineer)](https://git.io/typing-svg)
-
 ### Hi there 👋
 
 Welcome to my github page !
