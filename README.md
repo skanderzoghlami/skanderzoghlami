@@ -11,3 +11,8 @@ If you have any questions or if you want to colaborate on a project feel free to
 - 📫 How to reach me: [Linkedin Account](https://www.linkedin.com/in/skander-zoghlami/)
 
 <img alt="Silicon Valley" src="https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" align="right" width="200"/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skanderzoghlami&show_icons=true&hide=prs,issues&theme=dracula)](https://github.com/skanderzoghlami/github-readme-stats)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skanderzoghlami&size_weight=0.5&count_weight=0.5&hide=HTML,Jupyter%20Notebook&theme=dracula)
+
