@@ -85,6 +85,12 @@ In this project I apply the optimal transform between the two images to transfer
 
 ![image](https://github.com/user-attachments/assets/b6da5302-f0d2-41f4-b90b-dfc72df9bed2)
 
+### [Point Cloud Patch Generation](https://github.com/skanderzoghlami/Data-Structure-to-store-Meshes)
+
+A colab notebook that shows how to devide a given point cloud into a set of patches of equal size!;
+
+![image](https://github.com/user-attachments/assets/93981c89-a9a5-4fbc-b8dc-59b3a9c3daae)
+
 
 ### [Mesh Data Structure](https://github.com/skanderzoghlami/Data-Structure-to-store-Meshes)
 Just a C++ class to store a mesh and prepare it for further computational geometry operations.
