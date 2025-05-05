@@ -56,6 +56,12 @@ A Colab-based video editor that downloads media, combines them, and uploads the 
 
 My notes for the Advanced Computing with CUDA NVIDIA Course.
 
+
+### [Deploying AI models on Jetson Nano and Jetson Orin](https://github.com/skanderzoghlami/nvidia-jetson-nano-notes)
+
+My notes for the Getting started with Deploying AI models on the Jetson Nano and Jetson Orin boards.
+
+
 ## 🎃🎃 Useful stuff 🎃🎃
 ### [DALLE Discord Bot](https://github.com/skanderzoghlami/Dalle-Discord-bot)
 
