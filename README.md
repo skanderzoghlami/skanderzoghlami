@@ -23,9 +23,9 @@ This is a Ray Tracer written from scratch by following the RayTracing in 1 weeke
 
 ### [OpenGl Rendering Library](https://github.com/skanderzoghlami/Rendering-with-opengl)
 
-This is a rendering library that I created while following the [learnopengl.com](https://learnopengl.com/) tutorials. I stopped at the Advanced Lighting chapter with Shadow Mapping, but the project can still be used to render meshes and experiment with Shaders.
+This is a rendering library that I created while following the [learnopengl.com](https://learnopengl.com/) tutorials and the victor gordan youtube series, it allows the user to render 3D models write Shaders, Postprocess with framebuffer, Anti-aliasing, shadow maps instancing and much more.
 
-[![image](https://github.com/user-attachments/assets/01c1504a-cedb-4c7e-bd89-ff0b11cf4e34)](https://github.com/skanderzoghlami/Rendering-with-opengl)
+<img width="780" height="826" alt="image" src="https://github.com/user-attachments/assets/751c09eb-4987-4d99-9814-2d0e1aeda333" />
 
 ### [School Project: 3D Rendering](https://github.com/skanderzoghlami/OpenGL-Scene-Rendering-using-Gkit2light)
 
