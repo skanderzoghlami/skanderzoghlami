@@ -15,17 +15,18 @@ If you have any questions or if you want to collaborate on a project feel free t
 # ⚙️⚙️ Portfolio ⚙️⚙️
 
 ## 🤖🤖 Personal Projects 🤖🤖
-### [BeamTracer](https://github.com/skanderzoghlami/BeamTracer)
-
-This is a Ray Tracer written from scratch by following the RayTracing in 1 weekend book (kinda slow for the moment but I have some ideas to implement in future versions)
-
-[![image](https://github.com/user-attachments/assets/dc1a2dbc-e2a1-4266-af88-2fe041774d56)](https://github.com/skanderzoghlami/BeamTracer)
 
 ### [OpenGl Rendering Library](https://github.com/skanderzoghlami/Rendering-with-opengl)
 
 This is a rendering library that I created while following the [learnopengl.com](https://learnopengl.com/) tutorials and the victor gordan youtube series, it allows the user to render 3D models write Shaders, Postprocess with framebuffer, Anti-aliasing, shadow maps instancing and much more.
 
 <img width="780" height="826" alt="image" src="https://github.com/user-attachments/assets/751c09eb-4987-4d99-9814-2d0e1aeda333" />
+
+### [BeamTracer](https://github.com/skanderzoghlami/BeamTracer)
+
+This is a Ray Tracer written from scratch by following the RayTracing in 1 weekend book (kinda slow for the moment but I have some ideas to implement in future versions)
+
+[![image](https://github.com/user-attachments/assets/dc1a2dbc-e2a1-4266-af88-2fe041774d56)](https://github.com/skanderzoghlami/BeamTracer)
 
 ### [School Project: 3D Rendering](https://github.com/skanderzoghlami/OpenGL-Scene-Rendering-using-Gkit2light)
 
