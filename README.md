@@ -28,6 +28,13 @@ This is a Ray Tracer written from scratch by following the RayTracing in 1 weeke
 
 [![image](https://github.com/user-attachments/assets/dc1a2dbc-e2a1-4266-af88-2fe041774d56)](https://github.com/skanderzoghlami/BeamTracer)
 
+### [Perlin Noise Texture Generator](https://github.com/skanderzoghlami/Perlin-Noise)
+A Texture noise generator, Implemented noises are: White gaussian noise, Value Noise, Original Perlin noise.
+
+<img width="400" height="225" alt="image" src="https://github.com/user-attachments/assets/c864ce34-33a5-48bc-812c-d1dcb8e89bcf" />
+
+
+
 ### [School Project: 3D Rendering](https://github.com/skanderzoghlami/OpenGL-Scene-Rendering-using-Gkit2light)
 
 This is a school project where I used the Gkit2light library (a rendering library) to render images using OpenGL. Tasks included rendering textures, Frustum Culling, and Shadow Mapping using the Z-buffer.
